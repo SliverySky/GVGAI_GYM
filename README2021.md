@@ -32,7 +32,7 @@ http://www.aingames.cn/gvgai/ppsn_cog2020
 | trappedhero-lv0            | 1.7(0)   | 2.0(1)   | 13.3(25) | 1.5(1)   | 15                  |
 | trappedhero-lv1            | 0(0)     | 0.17(0)  | 10.2(17) | 0(0)     | 15                  |
 Table 1: Average score (win times) of different [planning agents](https://github.com/rubenrtorrado/GVGAI_GYM/tree/master/gym_gvgai/envs/gvgai/src/tracks/singlePlayer/advanced) 
-on each game level in 30 test times per level.
+on each game level in 30 test times.
 
 # Latest Updates 
 
